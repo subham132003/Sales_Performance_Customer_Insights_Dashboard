@@ -1,0 +1,1001 @@
+order_id	order_date	customer_id	region	product_category	sales_amount	quantity	discount	payment_method
+1	01-01-2023	99	West	Clothing	3951	9	20	Net Banking
+2	02-01-2023	231	West	Clothing	430	4	10	Net Banking
+3	03-01-2023	18	South	Electronics	296	8	5	Cash
+4	04-01-2023	84	North	Furniture	1515	6	10	Cash
+5	05-01-2023	107	East	Clothing	3396	6	15	Cash
+6	06-01-2023	124	West	Groceries	3120	1	0	Credit Card
+7	07-01-2023	58	South	Electronics	3469	1	15	Credit Card
+8	08-01-2023	215	North	Furniture	4955	4	10	Cash
+9	09-01-2023	226	North	Furniture	940	3	20	UPI
+10	10-01-2023	97	East	Electronics	3742	9	0	Net Banking
+11	11-01-2023	114	North	Furniture	2769	2	10	Net Banking
+12	12-01-2023	127	West	Clothing	1277	8	5	Credit Card
+13	13-01-2023	48	East	Electronics	1043	7	5	Credit Card
+14	14-01-2023	74	North	Clothing	3546	8	5	UPI
+15	15-01-2023	33	North	Furniture	951	7	20	UPI
+16	16-01-2023	225	South	Electronics	4700	3	15	Net Banking
+17	17-01-2023	112	West	Clothing	1851	3	5	UPI
+18	18-01-2023	254	South	Clothing	1945	3	10	UPI
+19	19-01-2023	97	South	Furniture	4924	7	15	Net Banking
+20	20-01-2023	209	East	Groceries	1821	1	5	Cash
+21	21-01-2023	69	East	Furniture	1873	8	10	UPI
+22	22-01-2023	3	South	Groceries	750	7	5	Cash
+23	23-01-2023	40	West	Electronics	1461	7	10	UPI
+24	24-01-2023	85	South	Clothing	3609	8	5	UPI
+25	25-01-2023	48	East	Groceries	1568	1	20	Cash
+26	26-01-2023	177	East	Electronics	584	2	10	Credit Card
+27	27-01-2023	136	North	Clothing	851	3	10	Credit Card
+28	28-01-2023	100	East	Groceries	209	4	0	Cash
+29	29-01-2023	181	East	Clothing	2452	3	10	Cash
+30	30-01-2023	214	North	Groceries	4378	5	15	Cash
+31	31-01-2023	119	North	Clothing	3624	2	0	Credit Card
+32	01-02-2023	291	West	Electronics	1158	7	15	Net Banking
+33	02-02-2023	77	West	Groceries	300	7	20	Credit Card
+34	03-02-2023	169	East	Clothing	4590	7	5	Cash
+35	04-02-2023	107	West	Groceries	3815	8	5	Net Banking
+36	05-02-2023	65	South	Groceries	1315	1	15	UPI
+37	06-02-2023	279	South	Furniture	831	7	5	Net Banking
+38	07-02-2023	206	South	Clothing	473	2	20	UPI
+39	08-02-2023	147	South	Electronics	3249	9	10	Credit Card
+40	09-02-2023	272	South	Groceries	3344	8	15	Net Banking
+41	10-02-2023	254	North	Clothing	4041	7	10	Credit Card
+42	11-02-2023	159	West	Electronics	4048	1	20	Cash
+43	12-02-2023	181	South	Furniture	745	1	0	Cash
+44	13-02-2023	71	North	Furniture	3695	1	5	Net Banking
+45	14-02-2023	155	North	Clothing	4178	3	10	Net Banking
+46	15-02-2023	209	East	Clothing	2035	7	0	UPI
+47	16-02-2023	271	East	Groceries	2833	9	5	Cash
+48	17-02-2023	256	West	Clothing	2661	9	5	Cash
+49	18-02-2023	245	East	Furniture	2152	5	20	Net Banking
+50	19-02-2023	130	East	Clothing	2039	4	5	Net Banking
+51	20-02-2023	44	West	Electronics	802	6	10	Credit Card
+52	21-02-2023	187	North	Furniture	2899	9	15	Net Banking
+53	22-02-2023	184	South	Groceries	607	7	0	UPI
+54	23-02-2023	26	East	Clothing	1523	1	5	UPI
+55	24-02-2023	269	West	Groceries	2167	3	15	Cash
+56	25-02-2023	19	North	Electronics	4265	8	5	UPI
+57	26-02-2023	2	South	Furniture	851	5	10	Cash
+58	27-02-2023	52	East	Furniture	2116	1	0	Cash
+59	28-02-2023	234	South	Electronics	648	8	20	Net Banking
+60	01-03-2023	57	East	Clothing	2655	4	20	Cash
+61	02-03-2023	4	West	Groceries	738	6	10	Net Banking
+62	03-03-2023	68	North	Clothing	1820	8	0	Credit Card
+63	04-03-2023	140	South	Groceries	3916	1	5	UPI
+64	05-03-2023	150	East	Groceries	3888	1	5	Net Banking
+65	06-03-2023	104	West	Furniture	1813	7	20	UPI
+66	07-03-2023	4	North	Furniture	4283	9	15	Credit Card
+67	08-03-2023	260	North	Furniture	4730	5	10	Credit Card
+68	09-03-2023	244	South	Furniture	4044	9	15	Cash
+69	10-03-2023	223	South	Furniture	1901	1	0	UPI
+70	11-03-2023	263	East	Furniture	4270	8	15	Credit Card
+71	12-03-2023	266	East	Electronics	3460	8	5	Cash
+72	13-03-2023	88	West	Clothing	4062	3	5	UPI
+73	14-03-2023	15	South	Groceries	3312	3	10	Net Banking
+74	15-03-2023	199	South	Electronics	2687	3	20	UPI
+75	16-03-2023	141	South	Electronics	4904	3	0	Credit Card
+76	17-03-2023	28	South	Furniture	1799	4	15	Cash
+77	18-03-2023	295	North	Groceries	247	9	10	Cash
+78	19-03-2023	117	East	Clothing	3111	7	0	UPI
+79	20-03-2023	100	West	Clothing	1629	2	20	Cash
+80	21-03-2023	194	East	Clothing	4607	1	20	Net Banking
+81	22-03-2023	17	East	Clothing	217	1	5	Credit Card
+82	23-03-2023	134	East	Electronics	4979	3	10	UPI
+83	24-03-2023	110	East	Clothing	586	8	20	Cash
+84	25-03-2023	87	North	Furniture	1335	4	0	Credit Card
+85	26-03-2023	47	West	Clothing	2947	2	20	UPI
+86	27-03-2023	272	North	Groceries	1121	4	5	UPI
+87	28-03-2023	297	South	Groceries	2319	5	0	Net Banking
+88	29-03-2023	257	East	Groceries	3265	7	15	UPI
+89	30-03-2023	61	West	Furniture	3199	2	20	Net Banking
+90	31-03-2023	255	East	Groceries	316	7	5	UPI
+91	01-04-2023	136	North	Furniture	4046	3	15	Net Banking
+92	02-04-2023	89	West	Furniture	2805	9	20	Net Banking
+93	03-04-2023	142	East	Furniture	1983	1	20	Net Banking
+94	04-04-2023	120	South	Electronics	1606	8	20	UPI
+95	05-04-2023	251	East	Clothing	4264	4	10	UPI
+96	06-04-2023	59	East	Clothing	2397	4	10	Cash
+97	07-04-2023	78	East	Electronics	1811	1	5	Cash
+98	08-04-2023	9	South	Furniture	1107	9	10	Cash
+99	09-04-2023	207	South	Electronics	2696	6	20	Cash
+100	10-04-2023	66	West	Electronics	3486	5	20	Cash
+101	11-04-2023	223	North	Furniture	1882	5	10	Net Banking
+102	12-04-2023	199	East	Electronics	4244	4	20	Cash
+103	13-04-2023	41	North	Clothing	2461	6	0	Net Banking
+104	14-04-2023	77	West	Electronics	4549	9	20	UPI
+105	15-04-2023	154	South	Clothing	1134	3	5	Cash
+106	16-04-2023	124	West	Groceries	3921	5	5	UPI
+107	17-04-2023	136	South	Groceries	3876	1	10	Net Banking
+108	18-04-2023	270	East	Electronics	4808	1	0	Cash
+109	19-04-2023	252	North	Clothing	1839	9	15	UPI
+110	20-04-2023	258	West	Groceries	535	3	20	Cash
+111	21-04-2023	248	South	Groceries	592	2	15	Cash
+112	22-04-2023	170	South	Electronics	4041	9	20	Cash
+113	23-04-2023	207	West	Clothing	2216	8	10	UPI
+114	24-04-2023	64	North	Electronics	2168	3	15	Net Banking
+115	25-04-2023	4	North	Clothing	1828	9	0	Net Banking
+116	26-04-2023	18	South	Furniture	2743	5	10	UPI
+117	27-04-2023	89	East	Clothing	3747	3	15	Cash
+118	28-04-2023	239	East	Clothing	3612	6	15	Net Banking
+119	29-04-2023	216	East	Clothing	1459	8	15	Net Banking
+120	30-04-2023	198	East	Electronics	2607	5	10	Cash
+121	01-05-2023	98	North	Groceries	3261	5	5	Credit Card
+122	02-05-2023	51	South	Clothing	3495	4	10	Cash
+123	03-05-2023	131	South	Clothing	3159	9	20	Net Banking
+124	04-05-2023	147	East	Clothing	2792	9	0	Net Banking
+125	05-05-2023	46	South	Furniture	462	2	10	Credit Card
+126	06-05-2023	19	North	Electronics	373	1	20	Net Banking
+127	07-05-2023	175	West	Clothing	4106	7	15	Credit Card
+128	08-05-2023	74	West	Furniture	3188	9	15	Net Banking
+129	09-05-2023	63	South	Groceries	3427	1	0	Net Banking
+130	10-05-2023	196	South	Furniture	227	9	20	Net Banking
+131	11-05-2023	140	South	Furniture	3346	8	20	UPI
+132	12-05-2023	93	East	Furniture	1300	2	0	Credit Card
+133	13-05-2023	46	East	Clothing	3165	3	5	Credit Card
+134	14-05-2023	123	South	Groceries	4359	5	10	Net Banking
+135	15-05-2023	188	West	Groceries	4615	4	15	Net Banking
+136	16-05-2023	282	North	Furniture	3662	1	10	UPI
+137	17-05-2023	284	South	Electronics	170	4	0	Net Banking
+138	18-05-2023	111	North	Furniture	4005	9	10	Credit Card
+139	19-05-2023	260	North	Groceries	568	7	0	Net Banking
+140	20-05-2023	100	North	Clothing	3660	2	0	Cash
+141	21-05-2023	207	North	Groceries	2023	5	15	UPI
+142	22-05-2023	101	East	Clothing	3079	9	0	Net Banking
+143	23-05-2023	113	South	Groceries	4122	5	10	Cash
+144	24-05-2023	61	North	Clothing	4319	4	0	Net Banking
+145	25-05-2023	138	North	Electronics	4618	4	10	Credit Card
+146	26-05-2023	195	West	Clothing	666	9	15	Credit Card
+147	27-05-2023	162	South	Furniture	3227	5	5	Cash
+148	28-05-2023	70	North	Electronics	4116	5	15	Credit Card
+149	29-05-2023	125	East	Clothing	1265	5	0	Net Banking
+150	30-05-2023	208	West	Furniture	4336	5	5	UPI
+151	31-05-2023	252	West	Groceries	1915	4	5	UPI
+152	01-06-2023	29	West	Clothing	4067	2	15	Cash
+153	02-06-2023	11	West	Furniture	240	3	10	Cash
+154	03-06-2023	229	North	Groceries	3410	9	20	UPI
+155	04-06-2023	260	East	Clothing	601	1	20	Credit Card
+156	05-06-2023	260	West	Clothing	1554	6	20	Credit Card
+157	06-06-2023	280	East	Clothing	4379	3	5	Credit Card
+158	07-06-2023	220	North	Furniture	635	1	15	UPI
+159	08-06-2023	184	South	Electronics	2260	5	15	Credit Card
+160	09-06-2023	291	East	Groceries	4341	3	5	Cash
+161	10-06-2023	294	North	Electronics	2929	6	5	Net Banking
+162	11-06-2023	154	West	Electronics	4483	3	0	UPI
+163	12-06-2023	187	South	Electronics	1725	9	10	UPI
+164	13-06-2023	195	East	Electronics	4547	5	10	UPI
+165	14-06-2023	11	West	Clothing	2252	9	10	UPI
+166	15-06-2023	137	North	Furniture	3427	6	15	UPI
+167	16-06-2023	246	North	Clothing	370	2	20	UPI
+168	17-06-2023	282	North	Furniture	4426	6	20	UPI
+169	18-06-2023	68	West	Furniture	3915	5	20	UPI
+170	19-06-2023	116	East	Electronics	1456	5	15	UPI
+171	20-06-2023	8	North	Electronics	4189	4	20	UPI
+172	21-06-2023	226	North	Electronics	190	8	20	Credit Card
+173	22-06-2023	168	South	Furniture	2277	5	20	UPI
+174	23-06-2023	221	East	Groceries	1830	9	20	Cash
+175	24-06-2023	138	North	Groceries	2458	4	0	Net Banking
+176	25-06-2023	169	East	Clothing	2809	3	0	Net Banking
+177	26-06-2023	216	North	Groceries	448	2	15	Net Banking
+178	27-06-2023	233	West	Electronics	4977	9	15	Credit Card
+179	28-06-2023	90	North	Furniture	4432	2	10	Credit Card
+180	29-06-2023	45	South	Groceries	1393	7	0	UPI
+181	30-06-2023	93	North	Furniture	4564	1	20	Net Banking
+182	01-07-2023	109	North	Electronics	2447	7	15	UPI
+183	02-07-2023	62	South	Groceries	3091	2	15	Credit Card
+184	03-07-2023	248	North	Groceries	2900	5	15	UPI
+185	04-07-2023	248	West	Furniture	4356	1	15	UPI
+186	05-07-2023	15	North	Groceries	1224	8	0	UPI
+187	06-07-2023	24	South	Clothing	673	6	20	Credit Card
+188	07-07-2023	118	North	Groceries	4179	6	15	Net Banking
+189	08-07-2023	81	South	Clothing	928	5	0	Cash
+190	09-07-2023	241	East	Furniture	570	3	10	UPI
+191	10-07-2023	239	South	Furniture	4250	4	10	Credit Card
+192	11-07-2023	153	South	Furniture	2351	4	20	Credit Card
+193	12-07-2023	127	West	Furniture	4067	4	5	Net Banking
+194	13-07-2023	144	North	Clothing	2732	4	15	Credit Card
+195	14-07-2023	128	West	Groceries	4332	6	10	Credit Card
+196	15-07-2023	85	East	Electronics	1198	1	0	UPI
+197	16-07-2023	236	North	Electronics	3189	8	0	Net Banking
+198	17-07-2023	240	West	Electronics	531	1	0	Cash
+199	18-07-2023	219	North	Furniture	1333	8	0	Credit Card
+200	19-07-2023	5	North	Groceries	1629	7	5	Net Banking
+201	20-07-2023	150	North	Clothing	4451	9	20	Credit Card
+202	21-07-2023	33	West	Groceries	1480	8	5	UPI
+203	22-07-2023	107	North	Clothing	241	4	15	Net Banking
+204	23-07-2023	104	East	Electronics	1316	1	15	Credit Card
+205	24-07-2023	59	West	Groceries	3947	6	10	Cash
+206	25-07-2023	258	South	Furniture	4287	5	0	Credit Card
+207	26-07-2023	174	East	Electronics	1876	8	0	Cash
+208	27-07-2023	279	South	Groceries	3751	1	5	Cash
+209	28-07-2023	54	South	Electronics	2552	1	20	Credit Card
+210	29-07-2023	292	East	Groceries	817	1	5	Cash
+211	30-07-2023	84	North	Furniture	660	8	10	Cash
+212	31-07-2023	72	East	Clothing	1004	3	0	Cash
+213	01-08-2023	40	West	Clothing	1036	9	10	Cash
+214	02-08-2023	30	North	Furniture	396	7	5	UPI
+215	03-08-2023	20	North	Electronics	4994	5	0	UPI
+216	04-08-2023	294	South	Clothing	1860	7	15	Cash
+217	05-08-2023	2	East	Furniture	1299	2	20	Credit Card
+218	06-08-2023	134	North	Groceries	4386	5	20	Credit Card
+219	07-08-2023	82	West	Clothing	3993	1	15	Credit Card
+220	08-08-2023	164	West	Electronics	1045	6	5	Credit Card
+221	09-08-2023	78	North	Electronics	1736	7	5	Cash
+222	10-08-2023	26	West	Electronics	2341	3	15	Credit Card
+223	11-08-2023	98	East	Groceries	3013	4	0	UPI
+224	12-08-2023	118	West	Electronics	3266	2	20	UPI
+225	13-08-2023	82	North	Electronics	4888	8	10	Credit Card
+226	14-08-2023	145	West	Furniture	4543	3	5	Net Banking
+227	15-08-2023	287	South	Clothing	2496	4	20	Cash
+228	16-08-2023	159	West	Clothing	1506	4	15	Credit Card
+229	17-08-2023	13	South	Furniture	593	2	5	UPI
+230	18-08-2023	91	East	Furniture	2132	2	0	Credit Card
+231	19-08-2023	93	East	Electronics	160	5	15	Cash
+232	20-08-2023	39	East	Groceries	1845	5	5	Credit Card
+233	21-08-2023	8	East	Clothing	3601	9	0	Credit Card
+234	22-08-2023	107	South	Electronics	1056	6	5	Credit Card
+235	23-08-2023	166	South	Groceries	4889	2	0	Credit Card
+236	24-08-2023	15	South	Clothing	4231	8	15	Credit Card
+237	25-08-2023	114	West	Electronics	2954	9	5	Net Banking
+238	26-08-2023	129	North	Electronics	3263	1	10	Credit Card
+239	27-08-2023	131	North	Furniture	1024	9	20	Net Banking
+240	28-08-2023	38	North	Groceries	2288	4	15	UPI
+241	29-08-2023	63	West	Electronics	4617	4	10	Net Banking
+242	30-08-2023	15	South	Electronics	1303	9	0	Cash
+243	31-08-2023	62	West	Electronics	2942	8	0	Credit Card
+244	01-09-2023	82	East	Clothing	3138	2	20	Net Banking
+245	02-09-2023	38	West	Furniture	2851	2	0	Credit Card
+246	03-09-2023	223	West	Electronics	1181	5	5	Net Banking
+247	04-09-2023	7	West	Electronics	4382	7	5	Credit Card
+248	05-09-2023	72	East	Furniture	346	2	10	Cash
+249	06-09-2023	242	North	Groceries	895	1	0	Credit Card
+250	07-09-2023	225	North	Furniture	3786	5	5	Cash
+251	08-09-2023	52	East	Furniture	1037	7	5	UPI
+252	09-09-2023	260	North	Electronics	2011	7	5	Credit Card
+253	10-09-2023	129	North	Electronics	1278	5	5	Cash
+254	11-09-2023	105	South	Furniture	837	4	0	UPI
+255	12-09-2023	127	North	Electronics	734	6	5	Credit Card
+256	13-09-2023	127	West	Furniture	316	3	15	UPI
+257	14-09-2023	95	West	Electronics	519	4	0	Cash
+258	15-09-2023	166	South	Clothing	2662	4	0	Credit Card
+259	16-09-2023	114	West	Electronics	408	8	5	UPI
+260	17-09-2023	53	South	Groceries	4903	2	10	Credit Card
+261	18-09-2023	259	West	Clothing	1966	9	5	Credit Card
+262	19-09-2023	225	North	Furniture	1083	5	5	Credit Card
+263	20-09-2023	15	West	Electronics	3878	3	0	Credit Card
+264	21-09-2023	3	West	Furniture	2387	4	10	Cash
+265	22-09-2023	239	South	Groceries	3414	8	0	UPI
+266	23-09-2023	161	South	Furniture	661	6	10	UPI
+267	24-09-2023	289	South	Groceries	3695	4	10	Cash
+268	25-09-2023	260	East	Clothing	4987	5	5	Cash
+269	26-09-2023	224	North	Groceries	1502	7	20	Cash
+270	27-09-2023	234	East	Clothing	2678	7	20	Credit Card
+271	28-09-2023	220	West	Groceries	3044	6	10	Net Banking
+272	29-09-2023	248	West	Clothing	670	1	5	Cash
+273	30-09-2023	107	South	Groceries	2551	1	10	Cash
+274	01-10-2023	220	South	Clothing	1755	1	0	Net Banking
+275	02-10-2023	112	West	Electronics	4413	4	20	Credit Card
+276	03-10-2023	22	East	Clothing	4983	5	20	UPI
+277	04-10-2023	159	South	Furniture	2328	5	5	Cash
+278	05-10-2023	188	South	Electronics	4886	2	5	Net Banking
+279	06-10-2023	288	West	Groceries	2947	2	0	UPI
+280	07-10-2023	71	North	Clothing	3985	9	0	Cash
+281	08-10-2023	225	South	Clothing	444	6	15	Cash
+282	09-10-2023	78	East	Clothing	3283	6	5	Credit Card
+283	10-10-2023	190	North	Groceries	3777	7	0	Net Banking
+284	11-10-2023	249	West	Furniture	4411	5	10	UPI
+285	12-10-2023	217	South	Groceries	2976	3	5	Net Banking
+286	13-10-2023	224	North	Clothing	504	3	5	Cash
+287	14-10-2023	28	West	Electronics	2002	1	0	Credit Card
+288	15-10-2023	17	East	Clothing	272	4	0	Cash
+289	16-10-2023	136	South	Electronics	1217	6	15	Credit Card
+290	17-10-2023	294	West	Clothing	1801	4	5	Credit Card
+291	18-10-2023	256	South	Furniture	4044	9	10	Cash
+292	19-10-2023	192	South	Furniture	1017	5	5	UPI
+293	20-10-2023	229	East	Groceries	3058	7	5	Cash
+294	21-10-2023	90	North	Furniture	3212	2	10	UPI
+295	22-10-2023	287	East	Electronics	1965	6	5	Net Banking
+296	23-10-2023	212	South	Groceries	406	2	15	Cash
+297	24-10-2023	114	East	Furniture	1951	7	10	Credit Card
+298	25-10-2023	185	South	Clothing	930	8	5	UPI
+299	26-10-2023	257	East	Furniture	524	8	0	Net Banking
+300	27-10-2023	90	South	Groceries	3851	8	15	Net Banking
+301	28-10-2023	285	East	Furniture	4972	3	0	Cash
+302	29-10-2023	66	West	Electronics	1905	3	15	Cash
+303	30-10-2023	278	East	Electronics	4820	9	10	Net Banking
+304	31-10-2023	29	North	Electronics	2519	5	10	Credit Card
+305	01-11-2023	9	West	Electronics	191	5	10	Credit Card
+306	02-11-2023	297	West	Electronics	958	9	10	UPI
+307	03-11-2023	21	East	Groceries	4109	5	20	Net Banking
+308	04-11-2023	249	East	Furniture	911	9	10	Net Banking
+309	05-11-2023	96	South	Groceries	1853	8	10	Credit Card
+310	06-11-2023	111	North	Furniture	3861	1	0	Cash
+311	07-11-2023	236	East	Electronics	3679	5	10	Credit Card
+312	08-11-2023	40	North	Clothing	1431	8	10	UPI
+313	09-11-2023	282	South	Clothing	2112	6	15	Credit Card
+314	10-11-2023	176	North	Clothing	3792	7	0	Net Banking
+315	11-11-2023	126	West	Furniture	2486	5	20	Cash
+316	12-11-2023	205	South	Furniture	306	3	20	Cash
+317	13-11-2023	224	West	Groceries	3682	1	0	Net Banking
+318	14-11-2023	33	North	Groceries	4317	7	0	Credit Card
+319	15-11-2023	298	West	Furniture	1839	9	5	Credit Card
+320	16-11-2023	234	West	Electronics	3996	5	0	UPI
+321	17-11-2023	77	South	Electronics	3116	9	15	Cash
+322	18-11-2023	299	West	Electronics	2104	8	20	Cash
+323	19-11-2023	4	West	Clothing	1692	5	15	UPI
+324	20-11-2023	192	South	Groceries	2103	4	10	Credit Card
+325	21-11-2023	198	West	Clothing	3019	9	0	Net Banking
+326	22-11-2023	219	North	Groceries	208	9	0	Net Banking
+327	23-11-2023	232	West	Electronics	3081	4	5	Cash
+328	24-11-2023	158	North	Electronics	2595	9	0	Cash
+329	25-11-2023	202	South	Electronics	1791	6	15	UPI
+330	26-11-2023	180	South	Clothing	4085	6	10	Net Banking
+331	27-11-2023	279	West	Electronics	4431	8	15	Credit Card
+332	28-11-2023	244	South	Electronics	1822	3	15	Net Banking
+333	29-11-2023	50	South	Clothing	4496	6	5	Credit Card
+334	30-11-2023	9	East	Electronics	1976	8	5	Net Banking
+335	01-12-2023	234	North	Electronics	2948	1	15	Net Banking
+336	02-12-2023	235	West	Clothing	2235	6	5	UPI
+337	03-12-2023	115	West	Furniture	3015	7	10	Net Banking
+338	04-12-2023	72	South	Groceries	3907	3	10	Credit Card
+339	05-12-2023	106	East	Electronics	2999	5	20	UPI
+340	06-12-2023	72	South	Electronics	294	9	15	UPI
+341	07-12-2023	82	West	Clothing	4242	5	5	Net Banking
+342	08-12-2023	149	South	Furniture	2823	6	20	UPI
+343	09-12-2023	141	East	Clothing	272	7	10	Credit Card
+344	10-12-2023	283	South	Furniture	1297	7	20	Credit Card
+345	11-12-2023	239	East	Clothing	4053	3	20	Cash
+346	12-12-2023	62	East	Clothing	3298	1	5	Credit Card
+347	13-12-2023	296	South	Furniture	407	7	5	Cash
+348	14-12-2023	208	West	Furniture	4260	1	10	Net Banking
+349	15-12-2023	296	East	Groceries	4299	8	0	Credit Card
+350	16-12-2023	127	West	Clothing	4631	5	20	Cash
+351	17-12-2023	265	East	Electronics	579	5	10	UPI
+352	18-12-2023	209	West	Electronics	275	7	10	Net Banking
+353	19-12-2023	259	West	Furniture	2917	3	10	Credit Card
+354	20-12-2023	181	South	Groceries	602	8	20	Cash
+355	21-12-2023	260	South	Clothing	2261	2	10	Cash
+356	22-12-2023	296	West	Groceries	3071	6	15	Cash
+357	23-12-2023	180	South	Furniture	828	4	5	Cash
+358	24-12-2023	206	East	Furniture	4718	5	5	Net Banking
+359	25-12-2023	200	West	Furniture	892	9	5	UPI
+360	26-12-2023	30	North	Groceries	3874	5	15	Cash
+361	27-12-2023	25	West	Electronics	3658	8	20	UPI
+362	28-12-2023	39	East	Electronics	1441	9	5	Net Banking
+363	29-12-2023	208	East	Electronics	2314	8	20	Credit Card
+364	30-12-2023	153	East	Groceries	2038	6	5	Cash
+365	31-12-2023	33	East	Clothing	4709	6	20	Cash
+366	01-01-2024	116	West	Groceries	1806	9	20	UPI
+367	02-01-2024	112	South	Electronics	3159	8	20	Net Banking
+368	03-01-2024	180	East	Furniture	2590	3	10	UPI
+369	04-01-2024	202	West	Furniture	3595	5	5	Credit Card
+370	05-01-2024	114	West	Electronics	1059	6	0	Net Banking
+371	06-01-2024	73	West	Clothing	2030	8	15	Credit Card
+372	07-01-2024	1	East	Furniture	1904	5	10	Cash
+373	08-01-2024	226	North	Clothing	2368	7	20	Cash
+374	09-01-2024	31	East	Furniture	2003	8	5	Cash
+375	10-01-2024	277	West	Electronics	1570	8	0	Net Banking
+376	11-01-2024	24	East	Groceries	1531	6	15	Credit Card
+377	12-01-2024	19	South	Groceries	3282	2	20	Net Banking
+378	13-01-2024	61	North	Clothing	4848	4	20	Net Banking
+379	14-01-2024	112	North	Electronics	4150	6	15	Cash
+380	15-01-2024	124	East	Furniture	3201	8	15	Cash
+381	16-01-2024	20	North	Clothing	2398	3	0	Net Banking
+382	17-01-2024	117	North	Electronics	3426	5	0	Net Banking
+383	18-01-2024	154	West	Groceries	1370	3	20	Net Banking
+384	19-01-2024	127	West	Groceries	3273	1	5	UPI
+385	20-01-2024	7	North	Groceries	2440	1	15	Cash
+386	21-01-2024	72	East	Clothing	1116	1	20	Credit Card
+387	22-01-2024	94	North	Groceries	1809	8	20	Cash
+388	23-01-2024	11	West	Clothing	2420	7	15	Cash
+389	24-01-2024	249	West	Furniture	930	3	15	Net Banking
+390	25-01-2024	72	North	Groceries	3790	6	15	Net Banking
+391	26-01-2024	175	North	Groceries	3792	1	5	Net Banking
+392	27-01-2024	192	South	Groceries	3313	6	10	UPI
+393	28-01-2024	43	South	Groceries	3698	1	0	UPI
+394	29-01-2024	235	East	Furniture	560	5	15	Cash
+395	30-01-2024	16	West	Clothing	3149	5	5	Cash
+396	31-01-2024	119	West	Furniture	2262	2	0	Cash
+397	01-02-2024	260	West	Electronics	4461	5	15	Net Banking
+398	02-02-2024	50	South	Furniture	1975	4	10	UPI
+399	03-02-2024	34	East	Clothing	1210	4	0	Credit Card
+400	04-02-2024	254	West	Electronics	620	7	10	Cash
+401	05-02-2024	232	South	Groceries	4224	8	10	Cash
+402	06-02-2024	291	East	Groceries	1437	7	5	Cash
+403	07-02-2024	64	North	Groceries	3168	2	10	UPI
+404	08-02-2024	269	North	Electronics	2236	6	0	Net Banking
+405	09-02-2024	27	North	Clothing	902	2	10	UPI
+406	10-02-2024	298	South	Electronics	2949	2	10	Cash
+407	11-02-2024	254	North	Groceries	2577	4	15	UPI
+408	12-02-2024	144	North	Groceries	976	1	5	Net Banking
+409	13-02-2024	235	East	Groceries	3567	3	20	Credit Card
+410	14-02-2024	181	North	Electronics	4115	1	0	Net Banking
+411	15-02-2024	46	North	Electronics	1597	5	5	Net Banking
+412	16-02-2024	293	South	Clothing	4901	2	0	Net Banking
+413	17-02-2024	232	South	Groceries	3938	6	15	Net Banking
+414	18-02-2024	202	South	Electronics	3064	6	5	UPI
+415	19-02-2024	143	North	Electronics	4320	4	15	Credit Card
+416	20-02-2024	290	East	Furniture	1109	4	20	UPI
+417	21-02-2024	214	West	Groceries	1151	3	5	Net Banking
+418	22-02-2024	214	South	Groceries	1312	9	5	UPI
+419	23-02-2024	9	East	Electronics	2914	7	15	Cash
+420	24-02-2024	154	North	Furniture	957	2	0	Net Banking
+421	25-02-2024	246	South	Groceries	512	2	15	Credit Card
+422	26-02-2024	257	East	Groceries	3449	5	0	Net Banking
+423	27-02-2024	279	West	Groceries	1675	9	15	UPI
+424	28-02-2024	289	East	Electronics	4297	7	20	Cash
+425	29-02-2024	95	North	Electronics	2538	9	10	Credit Card
+426	01-03-2024	277	South	Clothing	4688	5	15	Net Banking
+427	02-03-2024	215	East	Clothing	934	9	5	UPI
+428	03-03-2024	208	East	Groceries	2329	8	15	UPI
+429	04-03-2024	61	East	Furniture	639	3	10	UPI
+430	05-03-2024	283	South	Groceries	4908	5	10	Credit Card
+431	06-03-2024	229	East	Furniture	2601	5	20	Credit Card
+432	07-03-2024	102	North	Electronics	1376	1	0	Credit Card
+433	08-03-2024	180	North	Clothing	3073	6	15	Cash
+434	09-03-2024	142	West	Electronics	4728	8	0	UPI
+435	10-03-2024	263	West	Furniture	408	6	20	Credit Card
+436	11-03-2024	156	West	Furniture	223	5	0	Credit Card
+437	12-03-2024	243	South	Clothing	403	6	10	Net Banking
+438	13-03-2024	85	North	Electronics	3819	9	15	Net Banking
+439	14-03-2024	191	North	Groceries	3953	5	15	Cash
+440	15-03-2024	285	West	Electronics	1195	7	15	Credit Card
+441	16-03-2024	67	West	Furniture	1207	1	15	Cash
+442	17-03-2024	213	East	Electronics	2917	8	5	Net Banking
+443	18-03-2024	94	West	Clothing	2728	4	15	Credit Card
+444	19-03-2024	48	South	Electronics	2355	3	10	Credit Card
+445	20-03-2024	297	West	Electronics	2963	4	5	UPI
+446	21-03-2024	123	North	Furniture	2153	4	15	Credit Card
+447	22-03-2024	137	South	Groceries	350	7	0	Credit Card
+448	23-03-2024	176	East	Groceries	2801	6	20	Cash
+449	24-03-2024	215	South	Clothing	1106	6	0	Credit Card
+450	25-03-2024	182	East	Clothing	3567	2	5	Net Banking
+451	26-03-2024	23	East	Electronics	1623	7	15	Credit Card
+452	27-03-2024	193	North	Groceries	3153	7	0	Credit Card
+453	28-03-2024	149	South	Clothing	565	9	10	UPI
+454	29-03-2024	154	East	Groceries	4861	5	10	Net Banking
+455	30-03-2024	33	South	Furniture	385	5	10	Credit Card
+456	31-03-2024	188	East	Clothing	3826	6	10	Credit Card
+457	01-04-2024	81	West	Groceries	2504	4	10	UPI
+458	02-04-2024	70	West	Groceries	3309	8	0	Net Banking
+459	03-04-2024	7	South	Groceries	3358	1	10	Cash
+460	04-04-2024	128	South	Furniture	3665	3	10	Net Banking
+461	05-04-2024	7	East	Electronics	1630	6	10	Credit Card
+462	06-04-2024	121	East	Clothing	3781	8	5	Cash
+463	07-04-2024	229	East	Groceries	1325	3	15	Cash
+464	08-04-2024	161	North	Groceries	3567	8	0	Cash
+465	09-04-2024	114	North	Clothing	4921	3	5	Net Banking
+466	10-04-2024	138	South	Clothing	4300	3	0	UPI
+467	11-04-2024	209	South	Furniture	2829	6	0	Net Banking
+468	12-04-2024	284	West	Electronics	4101	6	5	UPI
+469	13-04-2024	175	West	Groceries	2509	7	15	Cash
+470	14-04-2024	22	South	Clothing	710	6	15	Cash
+471	15-04-2024	21	East	Electronics	4887	3	20	Credit Card
+472	16-04-2024	254	North	Electronics	4377	9	20	UPI
+473	17-04-2024	184	South	Electronics	2601	3	10	Net Banking
+474	18-04-2024	288	South	Electronics	2766	4	15	Cash
+475	19-04-2024	160	West	Groceries	3672	9	10	Cash
+476	20-04-2024	164	South	Electronics	4928	9	0	Cash
+477	21-04-2024	277	West	Groceries	3319	9	10	Cash
+478	22-04-2024	35	North	Clothing	4202	1	15	UPI
+479	23-04-2024	206	South	Groceries	4254	4	0	Net Banking
+480	24-04-2024	23	North	Electronics	668	7	5	Net Banking
+481	25-04-2024	254	West	Clothing	981	1	20	Cash
+482	26-04-2024	170	East	Groceries	2428	8	0	Credit Card
+483	27-04-2024	254	East	Groceries	675	4	5	Credit Card
+484	28-04-2024	24	North	Clothing	4506	9	10	Cash
+485	29-04-2024	125	East	Groceries	356	7	5	Cash
+486	30-04-2024	251	North	Furniture	2190	6	10	Net Banking
+487	01-05-2024	158	East	Electronics	2411	9	10	Cash
+488	02-05-2024	199	South	Clothing	3966	9	0	Cash
+489	03-05-2024	200	West	Electronics	4943	5	20	Cash
+490	04-05-2024	218	East	Furniture	4579	8	15	Cash
+491	05-05-2024	41	North	Clothing	3830	4	10	UPI
+492	06-05-2024	182	West	Electronics	4119	3	10	Cash
+493	07-05-2024	127	South	Groceries	3965	5	10	Net Banking
+494	08-05-2024	214	South	Furniture	736	4	10	Credit Card
+495	09-05-2024	192	North	Clothing	478	8	10	Cash
+496	10-05-2024	39	East	Furniture	455	8	0	UPI
+497	11-05-2024	239	East	Groceries	3397	3	10	Cash
+498	12-05-2024	122	West	Groceries	2166	4	15	UPI
+499	13-05-2024	239	North	Clothing	2227	8	5	Net Banking
+500	14-05-2024	257	North	Clothing	3682	6	10	UPI
+501	15-05-2024	234	West	Furniture	2264	1	15	Net Banking
+502	16-05-2024	20	West	Clothing	2491	8	20	Net Banking
+503	17-05-2024	111	East	Electronics	1885	4	15	Net Banking
+504	18-05-2024	153	West	Furniture	3736	2	20	UPI
+505	19-05-2024	134	North	Electronics	1108	9	5	Credit Card
+506	20-05-2024	116	South	Furniture	1146	3	10	Credit Card
+507	21-05-2024	94	South	Clothing	4286	6	0	UPI
+508	22-05-2024	120	South	Groceries	2394	6	20	UPI
+509	23-05-2024	232	South	Groceries	4011	4	5	Cash
+510	24-05-2024	259	North	Furniture	3053	8	5	UPI
+511	25-05-2024	164	South	Electronics	504	7	15	UPI
+512	26-05-2024	166	North	Groceries	1060	6	0	Credit Card
+513	27-05-2024	65	East	Furniture	4833	5	5	Credit Card
+514	28-05-2024	83	South	Furniture	2729	1	5	Cash
+515	29-05-2024	294	North	Groceries	2121	4	20	Net Banking
+516	30-05-2024	284	East	Groceries	602	1	20	UPI
+517	31-05-2024	47	East	Electronics	1386	6	5	Net Banking
+518	01-06-2024	255	East	Clothing	4019	9	15	Credit Card
+519	02-06-2024	10	South	Electronics	1032	2	10	Credit Card
+520	03-06-2024	133	West	Furniture	4489	9	20	Credit Card
+521	04-06-2024	34	North	Furniture	249	5	0	Credit Card
+522	05-06-2024	151	South	Clothing	3160	5	20	Cash
+523	06-06-2024	233	North	Electronics	1515	4	15	Credit Card
+524	07-06-2024	259	North	Electronics	2955	5	5	Cash
+525	08-06-2024	264	West	Electronics	3009	9	5	Net Banking
+526	09-06-2024	174	South	Groceries	1663	9	20	Credit Card
+527	10-06-2024	242	West	Furniture	1393	2	0	Cash
+528	11-06-2024	167	East	Electronics	3732	6	5	Net Banking
+529	12-06-2024	231	South	Groceries	4646	2	15	Net Banking
+530	13-06-2024	278	East	Groceries	4132	5	10	Credit Card
+531	14-06-2024	203	West	Electronics	853	7	10	Net Banking
+532	15-06-2024	151	East	Furniture	913	6	0	UPI
+533	16-06-2024	244	North	Clothing	1442	2	0	Net Banking
+534	17-06-2024	124	West	Clothing	901	7	0	Cash
+535	18-06-2024	179	East	Electronics	1705	7	15	UPI
+536	19-06-2024	28	East	Furniture	494	3	10	UPI
+537	20-06-2024	285	East	Clothing	4829	1	20	Net Banking
+538	21-06-2024	248	East	Furniture	411	8	10	UPI
+539	22-06-2024	198	South	Clothing	1014	8	10	Net Banking
+540	23-06-2024	241	East	Groceries	3092	3	0	Cash
+541	24-06-2024	221	East	Furniture	2650	7	10	Credit Card
+542	25-06-2024	110	South	Clothing	332	6	0	UPI
+543	26-06-2024	4	East	Electronics	4592	2	20	Net Banking
+544	27-06-2024	130	East	Furniture	3163	4	0	Net Banking
+545	28-06-2024	64	East	Furniture	4814	8	20	UPI
+546	29-06-2024	285	South	Furniture	3750	4	15	UPI
+547	30-06-2024	95	North	Clothing	532	9	5	Credit Card
+548	01-07-2024	238	North	Groceries	1092	3	0	Cash
+549	02-07-2024	15	South	Groceries	4844	4	20	UPI
+550	03-07-2024	166	North	Clothing	3742	1	20	Net Banking
+551	04-07-2024	242	North	Groceries	2913	3	20	Net Banking
+552	05-07-2024	177	South	Groceries	4929	6	20	Credit Card
+553	06-07-2024	200	West	Electronics	2287	6	15	UPI
+554	07-07-2024	40	South	Groceries	3578	8	10	Net Banking
+555	08-07-2024	102	North	Clothing	2439	7	0	Cash
+556	09-07-2024	290	North	Clothing	3416	3	10	Net Banking
+557	10-07-2024	134	East	Clothing	4779	3	5	Net Banking
+558	11-07-2024	241	West	Electronics	3287	7	10	Cash
+559	12-07-2024	114	North	Furniture	966	6	0	UPI
+560	13-07-2024	149	East	Groceries	1972	4	20	Cash
+561	14-07-2024	239	West	Clothing	675	2	5	Credit Card
+562	15-07-2024	2	North	Electronics	4379	3	5	Cash
+563	16-07-2024	282	West	Groceries	4482	3	0	Cash
+564	17-07-2024	300	East	Furniture	2218	6	15	UPI
+565	18-07-2024	18	North	Electronics	3562	9	10	Credit Card
+566	19-07-2024	30	South	Clothing	4811	9	5	Net Banking
+567	20-07-2024	108	South	Clothing	4893	2	10	Credit Card
+568	21-07-2024	23	North	Furniture	4913	6	20	Credit Card
+569	22-07-2024	48	North	Groceries	3379	2	5	Cash
+570	23-07-2024	212	East	Electronics	1071	2	15	Net Banking
+571	24-07-2024	127	East	Electronics	4626	9	20	Credit Card
+572	25-07-2024	23	East	Groceries	2381	2	0	Cash
+573	26-07-2024	40	North	Clothing	4421	4	15	UPI
+574	27-07-2024	64	West	Groceries	3495	5	20	Credit Card
+575	28-07-2024	72	West	Groceries	752	8	20	Net Banking
+576	29-07-2024	78	North	Groceries	546	3	20	Credit Card
+577	30-07-2024	2	West	Clothing	4379	7	20	Net Banking
+578	31-07-2024	4	South	Clothing	3658	2	5	Net Banking
+579	01-08-2024	216	North	Electronics	4952	5	5	Net Banking
+580	02-08-2024	243	South	Groceries	2131	2	10	Credit Card
+581	03-08-2024	265	South	Groceries	4580	3	20	Net Banking
+582	04-08-2024	16	South	Clothing	249	8	5	Cash
+583	05-08-2024	160	East	Clothing	4068	9	20	Cash
+584	06-08-2024	27	South	Groceries	3505	8	20	Credit Card
+585	07-08-2024	15	East	Furniture	2793	3	0	Credit Card
+586	08-08-2024	228	North	Clothing	1476	3	10	Cash
+587	09-08-2024	281	East	Furniture	2753	9	20	Cash
+588	10-08-2024	15	West	Groceries	889	8	10	Net Banking
+589	11-08-2024	252	South	Groceries	4240	4	10	Net Banking
+590	12-08-2024	12	South	Furniture	2020	1	10	Net Banking
+591	13-08-2024	71	West	Furniture	1132	6	10	Cash
+592	14-08-2024	228	East	Groceries	3002	5	5	Cash
+593	15-08-2024	70	South	Furniture	2014	3	10	Net Banking
+594	16-08-2024	112	East	Groceries	442	1	0	Credit Card
+595	17-08-2024	169	West	Furniture	1513	1	5	UPI
+596	18-08-2024	60	South	Groceries	3787	4	20	UPI
+597	19-08-2024	287	West	Clothing	1547	1	10	Cash
+598	20-08-2024	60	East	Groceries	3186	5	0	Credit Card
+599	21-08-2024	75	East	Groceries	240	2	0	Credit Card
+600	22-08-2024	270	East	Clothing	1419	2	0	Cash
+601	23-08-2024	270	North	Groceries	1182	9	20	Credit Card
+602	24-08-2024	200	West	Clothing	1153	2	10	UPI
+603	25-08-2024	237	East	Clothing	1424	4	20	Cash
+604	26-08-2024	25	East	Furniture	4244	7	10	Net Banking
+605	27-08-2024	108	North	Groceries	2210	4	15	Credit Card
+606	28-08-2024	156	North	Clothing	815	2	15	Credit Card
+607	29-08-2024	88	West	Electronics	926	8	20	Cash
+608	30-08-2024	18	West	Groceries	4962	9	20	Credit Card
+609	31-08-2024	57	East	Groceries	2906	8	10	Credit Card
+610	01-09-2024	170	West	Electronics	2413	7	5	Credit Card
+611	02-09-2024	140	North	Clothing	2058	3	10	UPI
+612	03-09-2024	83	South	Groceries	2308	4	20	Credit Card
+613	04-09-2024	76	East	Electronics	4112	2	10	Cash
+614	05-09-2024	273	North	Groceries	4613	2	10	Credit Card
+615	06-09-2024	171	North	Furniture	3148	5	15	Cash
+616	07-09-2024	92	East	Groceries	4830	1	10	Net Banking
+617	08-09-2024	40	West	Clothing	3842	1	5	Credit Card
+618	09-09-2024	278	East	Clothing	3097	6	5	Net Banking
+619	10-09-2024	192	North	Groceries	3141	2	10	UPI
+620	11-09-2024	134	West	Electronics	1256	1	0	Cash
+621	12-09-2024	17	North	Electronics	3406	7	5	Cash
+622	13-09-2024	198	East	Electronics	2506	2	5	Cash
+623	14-09-2024	80	East	Clothing	888	9	5	Cash
+624	15-09-2024	196	West	Groceries	2024	8	10	UPI
+625	16-09-2024	33	West	Furniture	4895	2	15	Cash
+626	17-09-2024	249	North	Furniture	3023	9	5	Credit Card
+627	18-09-2024	1	South	Furniture	693	7	20	Net Banking
+628	19-09-2024	79	North	Clothing	2940	4	10	Cash
+629	20-09-2024	128	West	Furniture	2246	2	20	Credit Card
+630	21-09-2024	145	East	Furniture	4078	2	5	Net Banking
+631	22-09-2024	147	West	Electronics	731	9	20	Cash
+632	23-09-2024	54	South	Electronics	2934	7	5	Cash
+633	24-09-2024	84	South	Furniture	2193	5	0	Net Banking
+634	25-09-2024	257	North	Electronics	4278	1	10	Credit Card
+635	26-09-2024	215	West	Groceries	612	7	20	UPI
+636	27-09-2024	144	East	Groceries	2040	1	10	Cash
+637	28-09-2024	152	South	Electronics	405	3	0	Net Banking
+638	29-09-2024	212	North	Electronics	3915	2	20	UPI
+639	30-09-2024	192	West	Groceries	1835	2	10	Credit Card
+640	01-10-2024	186	East	Clothing	3054	2	10	Credit Card
+641	02-10-2024	152	East	Furniture	3912	9	10	Cash
+642	03-10-2024	101	East	Electronics	2013	7	15	Cash
+643	04-10-2024	169	North	Clothing	2485	1	0	UPI
+644	05-10-2024	161	East	Furniture	1068	5	5	Credit Card
+645	06-10-2024	224	West	Electronics	1605	2	10	Credit Card
+646	07-10-2024	184	West	Electronics	4164	7	5	Cash
+647	08-10-2024	271	West	Clothing	2542	8	20	Credit Card
+648	09-10-2024	163	South	Furniture	2212	9	5	Credit Card
+649	10-10-2024	37	North	Electronics	821	5	10	Cash
+650	11-10-2024	240	North	Furniture	2390	6	20	Cash
+651	12-10-2024	30	North	Furniture	2462	9	10	Net Banking
+652	13-10-2024	218	North	Furniture	1769	7	20	Credit Card
+653	14-10-2024	11	West	Clothing	186	4	15	Credit Card
+654	15-10-2024	288	East	Furniture	3270	7	10	Credit Card
+655	16-10-2024	258	West	Groceries	269	2	5	UPI
+656	17-10-2024	124	North	Electronics	1324	1	20	UPI
+657	18-10-2024	174	South	Furniture	3638	3	5	Net Banking
+658	19-10-2024	22	South	Electronics	1698	5	10	UPI
+659	20-10-2024	118	West	Groceries	1012	5	5	Cash
+660	21-10-2024	55	South	Groceries	240	4	10	Cash
+661	22-10-2024	286	South	Groceries	253	8	0	Credit Card
+662	23-10-2024	181	West	Groceries	670	7	0	Cash
+663	24-10-2024	277	South	Electronics	1942	6	15	Cash
+664	25-10-2024	276	North	Furniture	684	6	0	Credit Card
+665	26-10-2024	232	East	Clothing	3674	6	0	Net Banking
+666	27-10-2024	167	South	Furniture	418	4	10	UPI
+667	28-10-2024	291	East	Furniture	4215	7	10	Cash
+668	29-10-2024	29	South	Electronics	3434	1	10	Credit Card
+669	30-10-2024	56	South	Furniture	4263	2	10	Net Banking
+670	31-10-2024	176	South	Groceries	4154	4	5	UPI
+671	01-11-2024	67	East	Electronics	2093	7	5	UPI
+672	02-11-2024	288	North	Clothing	3596	4	20	Net Banking
+673	03-11-2024	218	South	Electronics	1415	2	15	Net Banking
+674	04-11-2024	28	North	Electronics	3231	2	10	Net Banking
+675	05-11-2024	109	South	Clothing	3971	3	20	Net Banking
+676	06-11-2024	240	West	Electronics	2947	2	15	Credit Card
+677	07-11-2024	228	North	Groceries	3011	4	10	Net Banking
+678	08-11-2024	269	North	Furniture	328	1	10	Credit Card
+679	09-11-2024	274	South	Electronics	2262	6	5	Credit Card
+680	10-11-2024	50	North	Clothing	285	5	0	Cash
+681	11-11-2024	299	East	Furniture	3994	9	20	Net Banking
+682	12-11-2024	225	North	Groceries	1327	1	20	Cash
+683	13-11-2024	24	West	Furniture	1641	7	0	Cash
+684	14-11-2024	5	East	Groceries	3507	5	5	Net Banking
+685	15-11-2024	299	North	Groceries	118	1	5	Cash
+686	16-11-2024	103	East	Groceries	1612	5	15	UPI
+687	17-11-2024	228	South	Electronics	3975	7	0	Credit Card
+688	18-11-2024	154	East	Groceries	2796	7	20	Credit Card
+689	19-11-2024	247	West	Furniture	4747	4	10	Cash
+690	20-11-2024	269	East	Electronics	378	8	5	Net Banking
+691	21-11-2024	232	West	Clothing	2952	7	5	UPI
+692	22-11-2024	277	North	Electronics	1937	8	15	Net Banking
+693	23-11-2024	40	North	Groceries	2514	4	15	Cash
+694	24-11-2024	206	South	Clothing	2043	5	20	Cash
+695	25-11-2024	299	West	Groceries	4023	5	0	Credit Card
+696	26-11-2024	59	East	Clothing	3252	5	0	UPI
+697	27-11-2024	49	North	Electronics	3676	2	5	Credit Card
+698	28-11-2024	175	North	Furniture	2772	1	0	Credit Card
+699	29-11-2024	242	West	Electronics	833	4	5	Cash
+700	30-11-2024	147	East	Furniture	1592	8	5	Credit Card
+701	01-12-2024	292	East	Groceries	873	4	5	UPI
+702	02-12-2024	33	South	Groceries	2910	5	15	UPI
+703	03-12-2024	108	North	Electronics	3104	9	5	Cash
+704	04-12-2024	220	East	Groceries	3208	1	15	Cash
+705	05-12-2024	220	West	Furniture	816	7	10	Cash
+706	06-12-2024	275	South	Groceries	2648	3	5	Credit Card
+707	07-12-2024	101	East	Furniture	558	3	20	UPI
+708	08-12-2024	31	West	Clothing	1434	8	5	Credit Card
+709	09-12-2024	50	West	Groceries	1247	8	5	Credit Card
+710	10-12-2024	170	East	Furniture	4879	1	0	Credit Card
+711	11-12-2024	17	South	Electronics	478	4	5	Net Banking
+712	12-12-2024	220	East	Groceries	2730	5	10	Cash
+713	13-12-2024	196	West	Furniture	2672	9	15	Cash
+714	14-12-2024	262	North	Clothing	4316	7	20	Credit Card
+715	15-12-2024	275	South	Clothing	4039	9	15	Net Banking
+716	16-12-2024	186	South	Groceries	3105	9	0	Net Banking
+717	17-12-2024	215	East	Furniture	619	1	20	Credit Card
+718	18-12-2024	40	South	Clothing	3977	4	15	Net Banking
+719	19-12-2024	42	East	Electronics	2364	2	5	Cash
+720	20-12-2024	152	South	Electronics	2820	4	20	Cash
+721	21-12-2024	150	South	Furniture	2076	4	0	Net Banking
+722	22-12-2024	53	East	Electronics	879	3	0	Cash
+723	23-12-2024	213	East	Clothing	441	6	15	Cash
+724	24-12-2024	152	South	Furniture	4122	4	10	Net Banking
+725	25-12-2024	145	East	Clothing	3914	6	10	UPI
+726	26-12-2024	123	North	Groceries	4681	2	20	Cash
+727	27-12-2024	115	East	Groceries	4907	4	0	Cash
+728	28-12-2024	209	East	Groceries	1964	9	0	Credit Card
+729	29-12-2024	56	North	Furniture	1123	4	0	UPI
+730	30-12-2024	284	East	Furniture	1631	1	15	Net Banking
+731	31-12-2024	194	North	Furniture	738	2	0	UPI
+732	01-01-2025	34	East	Groceries	173	6	5	UPI
+733	02-01-2025	65	South	Groceries	175	3	20	Net Banking
+734	03-01-2025	111	West	Groceries	2645	1	5	Credit Card
+735	04-01-2025	131	West	Furniture	895	8	15	Net Banking
+736	05-01-2025	22	North	Clothing	2693	4	0	Net Banking
+737	06-01-2025	100	West	Furniture	2623	6	5	Net Banking
+738	07-01-2025	231	West	Furniture	2190	6	0	Net Banking
+739	08-01-2025	118	East	Furniture	1442	6	15	UPI
+740	09-01-2025	268	West	Clothing	1110	8	20	UPI
+741	10-01-2025	293	North	Furniture	961	3	0	UPI
+742	11-01-2025	240	South	Furniture	3449	7	15	Cash
+743	12-01-2025	41	West	Groceries	454	7	20	Net Banking
+744	13-01-2025	58	North	Groceries	3720	5	15	Credit Card
+745	14-01-2025	63	South	Electronics	4998	6	0	Net Banking
+746	15-01-2025	91	East	Groceries	4962	9	10	Cash
+747	16-01-2025	17	South	Electronics	4367	2	15	Cash
+748	17-01-2025	282	North	Clothing	4705	1	0	UPI
+749	18-01-2025	177	West	Groceries	2102	2	15	Credit Card
+750	19-01-2025	93	East	Furniture	859	9	10	UPI
+751	20-01-2025	27	East	Furniture	3252	7	5	Cash
+752	21-01-2025	81	East	Groceries	1622	8	20	Credit Card
+753	22-01-2025	125	West	Groceries	4471	1	20	Credit Card
+754	23-01-2025	38	South	Furniture	4945	1	20	Credit Card
+755	24-01-2025	288	East	Groceries	3710	7	10	Credit Card
+756	25-01-2025	257	South	Groceries	4062	5	20	Net Banking
+757	26-01-2025	9	South	Groceries	3340	5	0	Cash
+758	27-01-2025	236	South	Electronics	3253	3	0	Cash
+759	28-01-2025	232	East	Clothing	2210	4	10	Credit Card
+760	29-01-2025	243	North	Groceries	3531	5	5	UPI
+761	30-01-2025	134	East	Groceries	3065	1	20	Net Banking
+762	31-01-2025	165	East	Clothing	1627	2	10	Credit Card
+763	01-02-2025	126	East	Clothing	1362	8	20	Cash
+764	02-02-2025	295	East	Furniture	4090	1	5	Cash
+765	03-02-2025	132	West	Clothing	4930	6	10	Credit Card
+766	04-02-2025	202	South	Furniture	3122	7	15	UPI
+767	05-02-2025	113	North	Clothing	4417	8	0	UPI
+768	06-02-2025	8	East	Groceries	1555	3	0	Net Banking
+769	07-02-2025	23	East	Clothing	4302	4	15	UPI
+770	08-02-2025	113	South	Clothing	2386	4	0	Net Banking
+771	09-02-2025	244	South	Groceries	4762	7	10	UPI
+772	10-02-2025	191	South	Groceries	3211	1	10	UPI
+773	11-02-2025	66	North	Furniture	1533	6	20	Net Banking
+774	12-02-2025	294	South	Electronics	583	4	20	Net Banking
+775	13-02-2025	148	North	Clothing	1889	1	0	Credit Card
+776	14-02-2025	158	East	Electronics	299	1	0	Net Banking
+777	15-02-2025	176	South	Electronics	4283	8	0	Net Banking
+778	16-02-2025	217	East	Furniture	2147	7	10	UPI
+779	17-02-2025	10	West	Clothing	1753	2	5	Credit Card
+780	18-02-2025	188	West	Electronics	523	7	15	UPI
+781	19-02-2025	81	East	Groceries	455	2	10	UPI
+782	20-02-2025	88	East	Clothing	4742	8	5	Cash
+783	21-02-2025	110	West	Groceries	4860	7	5	Net Banking
+784	22-02-2025	268	East	Groceries	2927	5	0	Credit Card
+785	23-02-2025	245	West	Groceries	2826	1	20	Net Banking
+786	24-02-2025	145	South	Clothing	4225	7	5	Net Banking
+787	25-02-2025	285	North	Clothing	2758	1	20	UPI
+788	26-02-2025	57	South	Clothing	3929	2	0	Cash
+789	27-02-2025	292	South	Groceries	2944	1	0	Net Banking
+790	28-02-2025	196	South	Electronics	3651	7	10	UPI
+791	01-03-2025	7	East	Electronics	4443	3	20	Cash
+792	02-03-2025	147	South	Furniture	402	4	20	Credit Card
+793	03-03-2025	28	East	Furniture	955	7	20	Cash
+794	04-03-2025	105	East	Electronics	4812	3	0	Credit Card
+795	05-03-2025	214	North	Groceries	2236	8	15	Credit Card
+796	06-03-2025	5	East	Clothing	4532	5	0	Cash
+797	07-03-2025	109	East	Groceries	2720	5	5	Credit Card
+798	08-03-2025	177	West	Clothing	2479	2	10	Cash
+799	09-03-2025	252	West	Groceries	4676	9	0	Credit Card
+800	10-03-2025	300	West	Groceries	2133	8	0	Cash
+801	11-03-2025	140	North	Furniture	3895	7	0	Net Banking
+802	12-03-2025	18	West	Electronics	1501	4	5	Cash
+803	13-03-2025	117	East	Clothing	3267	6	10	Net Banking
+804	14-03-2025	51	South	Electronics	4523	8	10	UPI
+805	15-03-2025	5	East	Groceries	4541	7	10	Cash
+806	16-03-2025	194	South	Groceries	2658	8	15	Cash
+807	17-03-2025	59	West	Furniture	974	4	0	Cash
+808	18-03-2025	201	East	Furniture	775	1	0	Cash
+809	19-03-2025	184	East	Groceries	548	6	5	Cash
+810	20-03-2025	291	South	Clothing	4187	9	10	Cash
+811	21-03-2025	153	North	Clothing	4690	2	20	Credit Card
+812	22-03-2025	272	East	Electronics	4767	6	15	Net Banking
+813	23-03-2025	297	East	Furniture	2940	8	0	Cash
+814	24-03-2025	300	North	Electronics	4901	6	15	UPI
+815	25-03-2025	110	North	Electronics	1951	7	15	UPI
+816	26-03-2025	148	North	Groceries	4299	8	20	Credit Card
+817	27-03-2025	59	West	Electronics	767	7	5	Net Banking
+818	28-03-2025	196	East	Groceries	3218	6	10	UPI
+819	29-03-2025	288	West	Furniture	4545	7	0	UPI
+820	30-03-2025	244	South	Electronics	3427	8	15	Credit Card
+821	31-03-2025	295	East	Electronics	4170	3	20	UPI
+822	01-04-2025	199	West	Groceries	3992	5	0	Net Banking
+823	02-04-2025	200	South	Furniture	3920	9	5	Net Banking
+824	03-04-2025	285	North	Furniture	2405	5	10	Net Banking
+825	04-04-2025	129	East	Electronics	916	8	0	Credit Card
+826	05-04-2025	118	West	Groceries	451	1	10	Credit Card
+827	06-04-2025	213	East	Electronics	3899	6	0	UPI
+828	07-04-2025	231	East	Electronics	4303	2	10	Net Banking
+829	08-04-2025	45	East	Groceries	2421	4	0	Cash
+830	09-04-2025	66	North	Furniture	2504	8	20	Net Banking
+831	10-04-2025	290	West	Groceries	4357	1	0	Cash
+832	11-04-2025	176	West	Clothing	2900	2	20	Credit Card
+833	12-04-2025	161	North	Clothing	4972	2	5	Net Banking
+834	13-04-2025	103	North	Clothing	4031	3	0	Cash
+835	14-04-2025	40	West	Groceries	4012	4	10	UPI
+836	15-04-2025	199	East	Electronics	4271	3	15	Net Banking
+837	16-04-2025	15	East	Furniture	3862	2	5	Credit Card
+838	17-04-2025	158	West	Groceries	351	7	15	Net Banking
+839	18-04-2025	300	South	Furniture	1964	1	15	Cash
+840	19-04-2025	115	South	Groceries	3849	8	5	Cash
+841	20-04-2025	183	South	Clothing	4446	9	20	Credit Card
+842	21-04-2025	252	East	Furniture	160	4	0	Net Banking
+843	22-04-2025	17	East	Electronics	2171	8	15	Credit Card
+844	23-04-2025	273	South	Furniture	4819	7	5	Credit Card
+845	24-04-2025	81	South	Electronics	4806	9	0	Net Banking
+846	25-04-2025	203	South	Electronics	1270	7	10	Credit Card
+847	26-04-2025	202	North	Electronics	2562	1	20	UPI
+848	27-04-2025	193	South	Clothing	2572	4	5	Net Banking
+849	28-04-2025	202	East	Furniture	4189	6	15	Cash
+850	29-04-2025	25	East	Electronics	886	9	0	UPI
+851	30-04-2025	16	South	Groceries	3175	4	10	Cash
+852	01-05-2025	183	East	Furniture	2604	2	5	UPI
+853	02-05-2025	59	East	Furniture	1917	6	20	UPI
+854	03-05-2025	102	East	Groceries	4769	3	5	Credit Card
+855	04-05-2025	246	South	Clothing	4618	3	20	Net Banking
+856	05-05-2025	288	East	Furniture	4785	3	0	Credit Card
+857	06-05-2025	191	North	Groceries	4375	6	10	Cash
+858	07-05-2025	52	South	Clothing	2658	2	20	Cash
+859	08-05-2025	281	West	Clothing	2042	3	15	UPI
+860	09-05-2025	80	South	Groceries	1193	7	5	Net Banking
+861	10-05-2025	28	East	Electronics	1259	4	0	Credit Card
+862	11-05-2025	188	South	Electronics	394	3	0	Cash
+863	12-05-2025	8	East	Groceries	1942	8	20	Cash
+864	13-05-2025	220	North	Groceries	1770	1	15	Net Banking
+865	14-05-2025	106	North	Electronics	2765	6	0	UPI
+866	15-05-2025	101	East	Furniture	2755	7	0	Net Banking
+867	16-05-2025	252	West	Electronics	1636	1	20	Cash
+868	17-05-2025	91	East	Electronics	1432	3	20	Credit Card
+869	18-05-2025	101	West	Groceries	791	9	20	Credit Card
+870	19-05-2025	293	East	Furniture	3475	9	5	Credit Card
+871	20-05-2025	31	West	Electronics	4193	3	10	UPI
+872	21-05-2025	161	North	Clothing	1370	9	20	Net Banking
+873	22-05-2025	240	West	Electronics	1365	8	20	Net Banking
+874	23-05-2025	96	East	Groceries	1079	2	20	UPI
+875	24-05-2025	279	North	Electronics	541	7	5	Credit Card
+876	25-05-2025	41	South	Furniture	295	7	5	Cash
+877	26-05-2025	229	East	Groceries	3125	8	15	Cash
+878	27-05-2025	251	West	Groceries	1324	4	0	Net Banking
+879	28-05-2025	81	West	Clothing	2444	7	10	Credit Card
+880	29-05-2025	112	North	Clothing	2504	3	15	Cash
+881	30-05-2025	18	West	Groceries	3555	6	0	Net Banking
+882	31-05-2025	125	North	Clothing	4232	2	15	UPI
+883	01-06-2025	280	West	Clothing	4937	8	5	Cash
+884	02-06-2025	195	South	Clothing	1755	8	20	Cash
+885	03-06-2025	295	North	Furniture	3757	4	15	UPI
+886	04-06-2025	21	East	Groceries	1944	5	10	Credit Card
+887	05-06-2025	61	West	Clothing	466	5	10	UPI
+888	06-06-2025	208	East	Electronics	3760	3	0	Net Banking
+889	07-06-2025	284	West	Furniture	2184	4	10	Net Banking
+890	08-06-2025	69	North	Electronics	4010	9	5	Cash
+891	09-06-2025	201	North	Clothing	1065	2	10	Credit Card
+892	10-06-2025	20	North	Electronics	1490	3	15	Net Banking
+893	11-06-2025	228	South	Furniture	4732	2	10	Cash
+894	12-06-2025	173	East	Groceries	3757	6	15	Net Banking
+895	13-06-2025	59	West	Groceries	1593	9	15	Cash
+896	14-06-2025	236	North	Clothing	736	3	20	Net Banking
+897	15-06-2025	154	East	Groceries	547	9	5	Credit Card
+898	16-06-2025	3	South	Clothing	4042	1	0	Credit Card
+899	17-06-2025	90	West	Electronics	4282	2	15	Cash
+900	18-06-2025	278	South	Furniture	277	5	20	UPI
+901	19-06-2025	84	East	Clothing	2449	3	10	UPI
+902	20-06-2025	286	South	Furniture	1965	5	10	Credit Card
+903	21-06-2025	258	West	Clothing	4760	7	0	UPI
+904	22-06-2025	295	West	Groceries	1507	6	5	Net Banking
+905	23-06-2025	286	East	Electronics	4830	3	5	UPI
+906	24-06-2025	160	East	Furniture	4546	8	15	Credit Card
+907	25-06-2025	283	North	Groceries	4141	4	15	Net Banking
+908	26-06-2025	12	North	Groceries	1621	9	5	Net Banking
+909	27-06-2025	188	East	Electronics	4036	5	5	Credit Card
+910	28-06-2025	99	North	Groceries	2653	7	5	Credit Card
+911	29-06-2025	235	East	Groceries	1379	5	0	Credit Card
+912	30-06-2025	69	South	Electronics	369	7	0	UPI
+913	01-07-2025	92	West	Electronics	3595	1	10	Credit Card
+914	02-07-2025	138	West	Furniture	1156	6	0	Credit Card
+915	03-07-2025	174	North	Clothing	819	4	5	Cash
+916	04-07-2025	178	East	Groceries	3906	3	5	UPI
+917	05-07-2025	295	North	Groceries	2977	4	15	UPI
+918	06-07-2025	230	West	Furniture	3612	1	0	Credit Card
+919	07-07-2025	100	North	Groceries	2591	8	5	Cash
+920	08-07-2025	182	East	Groceries	1596	5	5	Cash
+921	09-07-2025	217	West	Electronics	4104	2	0	Net Banking
+922	10-07-2025	166	East	Groceries	4756	4	20	Cash
+923	11-07-2025	158	West	Groceries	3690	5	10	Credit Card
+924	12-07-2025	207	East	Clothing	1011	6	15	UPI
+925	13-07-2025	149	West	Electronics	3411	1	0	Net Banking
+926	14-07-2025	58	North	Electronics	3241	5	10	Cash
+927	15-07-2025	84	West	Clothing	1291	1	5	Credit Card
+928	16-07-2025	75	North	Groceries	1781	2	5	Credit Card
+929	17-07-2025	68	East	Groceries	1247	6	15	Credit Card
+930	18-07-2025	181	West	Clothing	4478	5	20	UPI
+931	19-07-2025	187	East	Clothing	3582	6	10	Net Banking
+932	20-07-2025	166	South	Groceries	2094	9	10	Credit Card
+933	21-07-2025	122	West	Furniture	2787	4	20	UPI
+934	22-07-2025	206	North	Groceries	4056	1	5	Credit Card
+935	23-07-2025	56	South	Groceries	1042	7	15	Cash
+936	24-07-2025	256	North	Furniture	1866	4	0	Cash
+937	25-07-2025	275	North	Electronics	3459	5	15	Net Banking
+938	26-07-2025	124	North	Furniture	2978	7	5	UPI
+939	27-07-2025	121	East	Furniture	4609	6	0	Cash
+940	28-07-2025	82	East	Furniture	4041	7	0	UPI
+941	29-07-2025	247	East	Clothing	3988	7	0	UPI
+942	30-07-2025	241	East	Groceries	3669	9	0	UPI
+943	31-07-2025	67	East	Electronics	2305	9	0	Credit Card
+944	01-08-2025	229	North	Electronics	4087	7	10	Cash
+945	02-08-2025	93	South	Electronics	2295	3	10	UPI
+946	03-08-2025	28	South	Furniture	349	7	5	Cash
+947	04-08-2025	245	South	Groceries	3961	5	5	Net Banking
+948	05-08-2025	214	South	Clothing	1503	9	5	UPI
+949	06-08-2025	68	East	Clothing	4232	2	15	UPI
+950	07-08-2025	129	West	Groceries	3640	1	15	UPI
+951	08-08-2025	209	South	Clothing	575	3	0	UPI
+952	09-08-2025	131	West	Furniture	2518	4	0	Net Banking
+953	10-08-2025	179	West	Electronics	2301	3	10	UPI
+954	11-08-2025	3	West	Groceries	1550	7	0	UPI
+955	12-08-2025	137	West	Groceries	936	1	10	Cash
+956	13-08-2025	146	South	Electronics	1858	5	5	Cash
+957	14-08-2025	97	South	Clothing	3511	9	15	UPI
+958	15-08-2025	282	North	Groceries	3947	4	15	Credit Card
+959	16-08-2025	150	West	Groceries	3211	5	10	UPI
+960	17-08-2025	249	South	Electronics	3607	5	20	Net Banking
+961	18-08-2025	210	North	Electronics	4016	4	10	Credit Card
+962	19-08-2025	128	North	Clothing	4705	1	10	UPI
+963	20-08-2025	15	North	Clothing	995	9	20	Net Banking
+964	21-08-2025	185	South	Furniture	3062	3	10	Net Banking
+965	22-08-2025	165	East	Clothing	1649	5	5	UPI
+966	23-08-2025	73	West	Clothing	4657	4	20	Cash
+967	24-08-2025	218	West	Electronics	1130	8	5	Credit Card
+968	25-08-2025	20	South	Furniture	4699	2	20	Credit Card
+969	26-08-2025	235	West	Furniture	946	1	20	Net Banking
+970	27-08-2025	135	West	Groceries	4609	9	15	UPI
+971	28-08-2025	179	East	Electronics	3252	8	5	UPI
+972	29-08-2025	58	South	Groceries	4789	1	5	Net Banking
+973	30-08-2025	9	South	Clothing	2051	1	10	UPI
+974	31-08-2025	33	East	Groceries	4086	6	10	Cash
+975	01-09-2025	214	North	Clothing	957	5	5	UPI
+976	02-09-2025	136	North	Clothing	1716	8	20	Net Banking
+977	03-09-2025	50	North	Furniture	3020	3	0	Credit Card
+978	04-09-2025	226	East	Furniture	810	8	10	Net Banking
+979	05-09-2025	63	West	Electronics	395	8	15	Net Banking
+980	06-09-2025	125	West	Electronics	431	2	10	UPI
+981	07-09-2025	89	South	Groceries	3881	5	20	Net Banking
+982	08-09-2025	241	South	Groceries	1060	3	10	Net Banking
+983	09-09-2025	209	East	Clothing	1296	5	0	Cash
+984	10-09-2025	83	West	Clothing	2157	6	15	Credit Card
+985	11-09-2025	86	North	Furniture	4783	9	0	Cash
+986	12-09-2025	265	South	Groceries	950	6	5	Cash
+987	13-09-2025	217	East	Electronics	4007	4	15	Net Banking
+988	14-09-2025	149	West	Electronics	3307	1	15	Net Banking
+989	15-09-2025	203	East	Furniture	2796	7	20	Cash
+990	16-09-2025	20	South	Clothing	1331	4	5	Credit Card
+991	17-09-2025	231	East	Electronics	2456	5	0	Credit Card
+992	18-09-2025	6	West	Groceries	3793	9	5	Cash
+993	19-09-2025	79	East	Groceries	2942	3	15	Net Banking
+994	20-09-2025	224	North	Clothing	4654	4	5	Credit Card
+995	21-09-2025	252	East	Furniture	3118	7	0	Credit Card
+996	22-09-2025	179	West	Electronics	4223	6	5	Net Banking
+997	23-09-2025	67	North	Clothing	449	5	20	UPI
+998	24-09-2025	131	West	Groceries	4492	7	5	Credit Card
+999	25-09-2025	207	East	Electronics	1775	5	5	UPI
+1000	26-09-2025	176	North	Clothing	2238	5	10	UPI
