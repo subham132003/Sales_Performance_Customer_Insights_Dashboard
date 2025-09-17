@@ -1,0 +1,49 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+
+sales_df = pd.read_csv("../data/sales_performance_data.csv")
+
+sales_df['order_date'] = pd.to_datetime(sales_df['order_date'])
+
+
+sales_df['month'] = sales_df['order_date'].dt.to_period('M')
+monthly_sales = sales_df.groupby('month')['sales_amount'].sum()
+
+plt.figure(figsize=(10,5))
+monthly_sales.plot(kind='line', marker='o')
+plt.title("Monthly Sales Trend")
+plt.xlabel("Month")
+plt.ylabel("Total Sales Amount")
+plt.xticks(rotation=45)
+plt.grid(True)
+plt.show()
+
+
+region_sales = sales_df.groupby('region')['sales_amount'].sum().sort_values(ascending=False)
+
+plt.figure(figsize=(7,5))
+region_sales.plot(kind='bar')
+plt.title("Total Sales by Region")
+plt.xlabel("Region")
+plt.ylabel("Sales Amount")
+plt.show()
+
+
+category_sales = sales_df.groupby('product_category')['sales_amount'].sum().sort_values(ascending=False)
+
+plt.figure(figsize=(7,5))
+category_sales.plot(kind='bar', color='orange')
+plt.title("Total Sales by Product Category")
+plt.xlabel("Product Category")
+plt.ylabel("Sales Amount")
+plt.show()
+
+
+payment_counts = sales_df['payment_method'].value_counts()
+
+plt.figure(figsize=(6,6))
+payment_counts.plot(kind='pie', autopct='%1.1f%%', startangle=90)
+plt.title("Payment Method Distribution")
+plt.ylabel("")
+plt.show()
